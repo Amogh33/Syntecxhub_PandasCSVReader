@@ -1,0 +1,21 @@
+Date,Product,Category,Units,UnitPrice,Revenue,Region,PaymentMethod
+2026-08-01,Laptop,Electronics,5,1000,5000,North,Credit Card
+2026-08-01,Coffee Maker,Home Appliances,10,80,800,East,PayPal
+2026-08-02,Headphones,Electronics,15,150,2250,West,Credit Card
+2026-08-02,Desk Chair,Office Supplies,4,200,800,South,Debit Card
+2026-08-03,Smartphone,Electronics,8,800,6400,East,Credit Card
+2026-08-03,Toaster,Home Appliances,3,50,150,North,Cash
+2026-08-04,Notebook,Office Supplies,100,5,500,West,Debit Card
+2026-08-04,Vacuum Cleaner,Home Appliances,2,250,500,South,Credit Card
+2026-08-05,Monitor,Electronics,6,300,1800,East,Credit Card
+2026-08-05,Blender,Home Appliances,7,70,490,North,PayPal
+2026-08-06,Desk Lamp,Office Supplies,12,35,420,West,Cash
+2026-08-06,Air Fryer,Home Appliances,5,120,600,South,Credit Card
+2026-08-07,Tablet,Electronics,10,400,4000,East,PayPal
+2026-08-07,Electric Kettle,Home Appliances,8,40,320,North,Debit Card
+2026-08-08,Paper Shredder,Office Supplies,5,90,450,West,Credit Card
+2026-08-08,Microwave,Home Appliances,4,180,720,South,Credit Card
+2026-08-09,Keyboard,Electronics,20,60,1200,East,Debit Card
+2026-08-09,Slow Cooker,Home Appliances,6,90,540,North,PayPal
+2026-08-10,Filing Cabinet,Office Supplies,3,150,450,West,Credit Card
+2026-08-10,Refrigerator,Home Appliances,1,1200,1200,South,Credit Card
