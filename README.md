@@ -40,7 +40,6 @@ Syntecxhub_PandasCSVReader/
 │   ├── coffee.csv            # Keith Galli warmup coffee dataset
 │   └── sales_data.csv        # Realistic multi-type sales dataset
 │
-├── app.py                    # Streamlit web application (dashboard)
 ├── pandas_analysis.ipynb     # Jupyter Notebook walkthrough
 ├── requirements.txt          # Package dependencies
 └── README.md                 # Project documentation
