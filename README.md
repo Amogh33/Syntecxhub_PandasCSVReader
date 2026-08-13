@@ -40,8 +40,12 @@ Syntecxhub_PandasCSVReader/
 │   ├── coffee.csv            # Keith Galli warmup coffee dataset
 │   └── sales_data.csv        # Realistic multi-type sales dataset
 │
+├── app.py                    # Streamlit web application (dashboard)
+├── run_analysis.py           # Standalone Python script for sales data analysis
+├── run_bios_analysis.py      # Standalone Python script for athlete biography analysis
 ├── pandas_analysis.ipynb     # Jupyter Notebook walkthrough
 ├── requirements.txt          # Package dependencies
+├── .gitignore                # Git ignore file (excludes virtual envs & output folder)
 └── README.md                 # Project documentation
 ```
 
@@ -60,9 +64,22 @@ Ensure Python (3.9+) is installed. Since we are using Anaconda, all dependencies
    ```
 4. The dashboard will automatically launch in your default web browser (usually at `http://localhost:8501`).
 
+### Run the Standalone Scripts
+You can execute the standalone analysis scripts directly from the terminal to run the analysis offline and output results to the `output/` directory:
+- **Sales Analysis:**
+  ```bash
+  python run_analysis.py
+  ```
+- **Athlete Biography Analysis:**
+  ```bash
+  python run_bios_analysis.py
+  ```
+
 ### Run the Jupyter Notebook
 You can open `pandas_analysis.ipynb` in VS Code, Jupyter Notebook, or JupyterLab:
 ```bash
 jupyter notebook pandas_analysis.ipynb
 ```
 Select the Python 3 kernel and run all cells to verify standard Pandas operations.
+
+
